@@ -19,7 +19,7 @@ react版本必须为17.x.x 以上。
 
 ``` jsx
 import React from 'react';
-import { Imgx } from '@kkb/imgx';
+import { Imgx } from 'imgx';
 
 const DemoPage = ({ images }) => (
   <div>
